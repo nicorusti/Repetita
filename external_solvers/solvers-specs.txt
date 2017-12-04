@@ -15,6 +15,16 @@
 # - setLinkWeights            Changes IGP link weights from the output of the run command (the key field is the identifier of a link, the value field is the new weight to be set on the given link)
 # - setExplicitPaths          Sets explicit paths (e.g., tunnels) from the output of the run command (the key field is the identifier of a demand, the value field is the explicit path to be set for the given demand)
 
+[convert_to_repetita_output.py]
+name = strymonToRepetita
+run command = ../target/release/controller --algorithm deltapath --event-type bandwidth-reservation --topology repetita --input $TOPOFILE --log-filter 'controller::driver::bwreservation=info' --repetita-flow-file $DEMANDFILE --repetitions-per-batch 1 --num-batches 9999999 > repetita_temp.txt && python2.7 ../scripts/convert_to_repetita_output.py $TOPOFILE repetita_temp.txt $OUTFILE
+gettime command = cat $OUTFILE | grep 'execution time' | awk -v FS=': ' '{print $2}'
+optimization effect = setExplicitPaths
+field separator = '; '
+key field = 0
+value field = 1
+optimization objective = 0
+
 [compute_random_paths.py]
 name = randomExplicitPaths
 run command = python2.7 external_solvers/compute_random_paths.py $TOPOFILE $DEMANDFILE $OUTFILE
