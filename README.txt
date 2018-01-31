@@ -46,3 +46,9 @@ Performed analyses:
 We are well aware that the current version of the framework has several limitations, from the number of supported algorithms to the dataset.
 We have done our best to make the code as easy to extend as possible, in the hope to overcome current limitations over time. 
 We would warmly welcome contributions to REPETITA: Any improvement can be a small step towards more fair and rigorous approach to research in traffic engineering!
+
+# Using repetita with BW reservations:
+
+Sample command:
+
+    ./repetita -graph data/2016TopologyZooUCL_unary/AttMpls.graph  -demands data/2016TopologyZooUCL_unary/AttMpls.0000.demands -solver strymonToRepetita -scenario SingleSolverRun  -t 300
