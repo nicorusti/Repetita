@@ -1,0 +1,73 @@
+demand_64; ['8', '2', '1', '7', '0']; edge_21-edge_9-edge_17-edge_7
+demand_61; ['7', '1', '5']; edge_17-edge_13
+demand_62; ['7', '0', '3', '8', '2', '1', '5', '6']; edge_7-edge_5-edge_23-edge_21-edge_9-edge_13-edge_33
+demand_65; ['8', '2', '3', '4', '6', '5', '7', '1']; edge_21-edge_19-edge_25-edge_29-edge_33-edge_35-edge_17
+demand_38; ['4', '5', '7']; edge_27-edge_35
+demand_39; ['4', '5', '1', '2', '3', '8']; edge_27-edge_13-edge_9-edge_19-edge_23
+demand_34; ['4', '7', '1', '6', '8', '3', '2']; edge_31-edge_17-edge_15-edge_37-edge_23-edge_19
+demand_35; ['4', '6', '5', '1', '7', '0', '2', '8', '3']; edge_29-edge_33-edge_13-edge_17-edge_7-edge_3-edge_21-edge_23
+demand_36; ['4', '3', '0', '2', '8', '6', '7', '5']; edge_25-edge_5-edge_3-edge_21-edge_37-edge_39-edge_35
+demand_37; ['4', '7', '0', '8', '6']; edge_31-edge_7-edge_1-edge_37
+demand_30; ['3', '4', '5', '1', '7']; edge_25-edge_27-edge_13-edge_17
+demand_31; ['3', '2', '1', '5', '4', '7', '0', '8']; edge_19-edge_9-edge_13-edge_27-edge_31-edge_7-edge_1
+demand_32; ['4', '7', '1', '5', '6', '8', '3', '0']; edge_31-edge_17-edge_13-edge_33-edge_37-edge_23-edge_5
+demand_33; ['4', '6', '7', '0', '8', '3', '2', '1']; edge_29-edge_39-edge_7-edge_1-edge_23-edge_19-edge_9
+demand_16; ['2', '1', '6', '7', '4', '3', '8', '0']; edge_9-edge_15-edge_39-edge_31-edge_25-edge_23-edge_1
+demand_17; ['2', '3', '0', '7', '4', '5', '6', '1']; edge_19-edge_5-edge_7-edge_31-edge_27-edge_33-edge_15
+demand_14; ['1', '4', '3', '2', '8', '6', '7']; edge_11-edge_25-edge_19-edge_21-edge_37-edge_39
+demand_15; ['1', '5', '6', '7', '4', '3', '0', '8']; edge_13-edge_33-edge_39-edge_31-edge_25-edge_5-edge_1
+demand_12; ['1', '4', '7', '0', '2', '8', '6', '5']; edge_11-edge_31-edge_7-edge_3-edge_21-edge_37-edge_33
+demand_13; ['1', '2', '3', '4', '5', '7', '0', '8', '6']; edge_9-edge_19-edge_25-edge_27-edge_35-edge_7-edge_1-edge_37
+demand_10; ['1', '4', '5', '6', '7', '0', '8', '3']; edge_11-edge_27-edge_33-edge_39-edge_7-edge_1-edge_23
+demand_11; ['1', '6', '7', '0', '8', '2', '3', '4']; edge_15-edge_39-edge_7-edge_1-edge_21-edge_19-edge_25
+demand_52; ['6', '8', '2', '0', '3', '4']; edge_37-edge_21-edge_3-edge_5-edge_25
+demand_53; ['6', '8', '0', '3', '4', '7', '1', '5']; edge_37-edge_1-edge_5-edge_25-edge_31-edge_17-edge_13
+demand_50; ['6', '7', '5', '1', '4', '3', '2']; edge_39-edge_35-edge_13-edge_11-edge_25-edge_19
+demand_51; ['6', '5', '7', '1', '2', '8', '0', '3']; edge_33-edge_35-edge_17-edge_9-edge_21-edge_1-edge_5
+demand_56; ['7', '1', '6', '5', '4', '3', '8', '0']; edge_17-edge_15-edge_33-edge_27-edge_25-edge_23-edge_1
+demand_57; ['7', '0', '8', '6', '5', '4', '1']; edge_7-edge_1-edge_37-edge_33-edge_27-edge_11
+demand_18; ['2', '8', '6', '4', '3']; edge_21-edge_37-edge_29-edge_25
+demand_19; ['2', '0', '3', '8', '6', '1', '5', '7', '4']; edge_3-edge_5-edge_23-edge_37-edge_15-edge_13-edge_35-edge_31
+demand_59; ['7', '6', '8', '3']; edge_39-edge_37-edge_23
+demand_70; ['8', '0', '2', '3', '4', '1', '7', '5', '6']; edge_1-edge_3-edge_19-edge_25-edge_11-edge_17-edge_35-edge_33
+demand_55; ['6', '5', '1', '7', '4', '3', '0', '2', '8']; edge_33-edge_13-edge_17-edge_31-edge_25-edge_5-edge_3-edge_21
+demand_71; ['8', '6', '5', '1', '4', '3', '0', '7']; edge_37-edge_33-edge_13-edge_11-edge_25-edge_5-edge_7
+demand_58; ['7', '4', '5', '6', '8', '0', '2']; edge_31-edge_27-edge_33-edge_37-edge_1-edge_3
+demand_29; ['3', '4', '1', '2', '8', '0', '7', '6']; edge_25-edge_11-edge_9-edge_21-edge_1-edge_7-edge_39
+demand_28; ['3', '8', '2', '0', '7', '5']; edge_23-edge_21-edge_3-edge_7-edge_35
+demand_23; ['2', '1', '5', '6', '4', '3', '8']; edge_9-edge_13-edge_33-edge_29-edge_25-edge_23
+demand_22; ['2', '8', '6', '5', '4', '3', '0', '7']; edge_21-edge_37-edge_33-edge_27-edge_25-edge_5-edge_7
+demand_21; ['2', '0', '8', '3', '4', '6']; edge_3-edge_1-edge_23-edge_25-edge_29
+demand_20; ['2', '3', '0', '7', '6', '4', '1', '5']; edge_19-edge_5-edge_7-edge_39-edge_29-edge_11-edge_13
+demand_27; ['3', '2', '1', '5', '7', '4']; edge_19-edge_9-edge_13-edge_35-edge_31
+demand_26; ['3', '0', '7', '1', '5', '4', '6', '8', '2']; edge_5-edge_7-edge_17-edge_13-edge_27-edge_29-edge_37-edge_21
+demand_25; ['3', '0', '2', '8', '6', '4', '7', '1']; edge_5-edge_3-edge_21-edge_37-edge_29-edge_31-edge_17
+demand_24; ['3', '2', '8', '6', '1', '7', '0']; edge_19-edge_21-edge_37-edge_15-edge_17-edge_7
+demand_49; ['6', '7', '4', '3', '0', '8', '2', '1']; edge_39-edge_31-edge_25-edge_5-edge_1-edge_21-edge_9
+demand_48; ['6', '4', '3', '8', '2', '0']; edge_29-edge_25-edge_23-edge_21-edge_3
+demand_63; ['7', '6', '4', '1', '2', '0', '3', '8']; edge_39-edge_29-edge_11-edge_9-edge_3-edge_5-edge_23
+demand_69; ['8', '0', '3', '4', '6', '7', '5']; edge_1-edge_5-edge_25-edge_29-edge_39-edge_35
+demand_68; ['8', '0', '3', '2', '1', '5', '7', '6', '4']; edge_1-edge_5-edge_19-edge_9-edge_13-edge_35-edge_39-edge_29
+demand_41; ['5', '7', '6', '4', '3', '0', '8', '2', '1']; edge_35-edge_39-edge_29-edge_25-edge_5-edge_1-edge_21-edge_9
+demand_40; ['5', '4', '7', '6', '8', '2', '3', '0']; edge_27-edge_31-edge_39-edge_37-edge_21-edge_19-edge_5
+demand_43; ['5', '1', '6', '7', '4', '3']; edge_13-edge_15-edge_39-edge_31-edge_25
+demand_42; ['5', '7', '6', '4', '1', '2']; edge_35-edge_39-edge_29-edge_11-edge_9
+demand_45; ['5', '4', '1', '7', '0', '3', '8', '6']; edge_27-edge_11-edge_17-edge_7-edge_5-edge_23-edge_37
+demand_44; ['5', '7', '6', '1', '4']; edge_35-edge_39-edge_15-edge_11
+demand_47; ['5', '7', '1', '2', '0', '8']; edge_35-edge_17-edge_9-edge_3-edge_1
+demand_46; ['5', '4', '6', '8', '2', '1', '7']; edge_27-edge_29-edge_37-edge_21-edge_9-edge_17
+demand_66; ['8', '6', '5', '4', '7', '0', '2']; edge_37-edge_33-edge_27-edge_31-edge_7-edge_3
+demand_67; ['8', '6', '7', '0', '2', '3']; edge_37-edge_39-edge_7-edge_3-edge_19
+demand_60; ['7', '0', '3', '2', '8', '6', '1', '5', '4']; edge_7-edge_5-edge_19-edge_21-edge_37-edge_15-edge_13-edge_27
+demand_8; ['1', '4', '6', '8', '2', '3', '0']; edge_11-edge_29-edge_37-edge_21-edge_19-edge_5
+demand_9; ['1', '7', '5', '4', '6', '8', '0', '3', '2']; edge_17-edge_35-edge_27-edge_29-edge_37-edge_1-edge_5-edge_19
+demand_54; ['6', '8', '0', '2', '3', '4', '5', '7']; edge_37-edge_1-edge_3-edge_19-edge_25-edge_27-edge_35
+demand_4; ['0', '2', '8', '6', '1', '4', '5']; edge_3-edge_21-edge_37-edge_15-edge_11-edge_27
+demand_5; ['0', '8', '3', '2', '1', '7', '5', '6']; edge_1-edge_23-edge_19-edge_9-edge_17-edge_35-edge_33
+demand_6; ['0', '3', '2', '8', '6', '1', '5', '4', '7']; edge_5-edge_19-edge_21-edge_37-edge_15-edge_13-edge_27-edge_31
+demand_7; ['0', '7', '5', '4', '6', '1', '2', '3', '8']; edge_7-edge_35-edge_27-edge_29-edge_15-edge_9-edge_19-edge_23
+demand_0; ['0', '2', '3', '4', '1']; edge_3-edge_19-edge_25-edge_11
+demand_1; ['0', '7', '6', '5', '4', '3', '8', '2']; edge_7-edge_39-edge_33-edge_27-edge_25-edge_23-edge_21
+demand_2; ['0', '7', '5', '6', '4', '1', '2', '3']; edge_7-edge_35-edge_33-edge_29-edge_11-edge_9-edge_19
+demand_3; ['0', '2', '1', '6', '4']; edge_3-edge_9-edge_15-edge_29
+execution time (in ns): 165412187.576
